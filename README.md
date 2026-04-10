@@ -1,7 +1,15 @@
 # Ciência da Computação
-Repositório pra registro das máteria/assuntos de ciência da computação, programação e tecnologia no geral
+### Repositório pra registro das máteria/assuntos de ciência da computação, programação e tecnologia no geral aprendidos durante o período da faculdade (seja por fora ou pela instituição).
 ---
 
-* [Circuitos Digitais](./circuitos-digitais.md)
-* [Git e Github](./git-hub.md)
+- Por dentro
+1. [Circuitos Digitais](./circuitos-digitais.md)
+
+
+
+
+
+- Por fora
+1. [algoritmos](./algoritmos.md)
+2. [Git e Github](./git-hub.md)
   
